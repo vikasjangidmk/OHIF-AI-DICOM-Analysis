@@ -1,9 +1,5 @@
-pydicom 
-opencv-python 
-matplotlib
-python-dotenv
-monai 
-torch 
-torchvision
-
-
+fastapi
+uvicorn[standard]
+tensorflow
+numpy
+pillow
